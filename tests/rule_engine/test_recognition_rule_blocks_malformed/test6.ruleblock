@@ -1,0 +1,13 @@
+Block-Type: something-invalid
+
+---
+
+Type: Date
+Match: <Thursday~.+>
+Guard: !<last~.+>
+
+---
+
+Type: Date
+Match: <Friday~.+>
+Guard: !<last~.+>

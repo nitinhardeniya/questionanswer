@@ -1,0 +1,4 @@
+Type: Date
+Match: <Wednesday~.+>
+Case-Sensitive: True
+Deliminate-Numbers: True

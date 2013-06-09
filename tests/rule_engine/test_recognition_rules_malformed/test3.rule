@@ -1,0 +1,7 @@
+Type: Date
+Match: <(Thursday|Friday)~.+>
+Guard: !<last~.+>
+ID: 1
+ID: 2
+ID: 3
+Squelch: True

@@ -1,0 +1,38 @@
+2013-06-10 01:41:27,225 INFO ['85-year-old/O', 'Advani/PERSON', 'on/O', 'Saturday/O', 'skipped/O', 'the/O', 'BJP/ORGANIZATION', 'national/O', 'executive/O', ',/O', 'perhaps/O', 'for/O', 'the/O', 'first/O', 'time/O', 'in/O', 'the/O', 'party/O', "'s/O", 'history/O', ',/O', 'apparently/O', 'to/O', 'express/O', 'his/O', 'opposition/O', 'to/O', 'making/O', 'Modi/PERSON', 'the/O', 'campaign/O', 'committee/O', 'chief/O', ',/O', 'which/O', 'will/O', 'in/O', 'effect/O', 'present/O', 'him/O', 'as/O', 'the/O', 'face/O', 'of/O', 'the/O', 'party/O', 'for/O', 'the/O', 'next/O', 'general/O', 'elections/O', './O']
+2013-06-10 01:41:27,226 INFO {1: ['Advani', 'Modi']}
+2013-06-10 01:41:27,226 INFO {}
+2013-06-10 01:41:27,226 INFO {1: ['BJP']}
+2013-06-10 01:41:27,226 INFO [('85-year-old', 'O', 1), ('Advani', 'PERSON', 1), ('on', 'O', 1), ('Saturday', 'O', 1), ('skipped', 'O', 1), ('the', 'O', 1), ('BJP', 'ORGANIZATION', 1), ('national', 'O', 1), ('executive', 'O', 1), (',', 'O', 1), ('perhaps', 'O', 1), ('for', 'O', 1), ('the', 'O', 1), ('first', 'O', 1), ('time', 'O', 1), ('in', 'O', 1), ('the', 'O', 1), ('party', 'O', 1), ("'s", 'O', 1), ('history', 'O', 1), (',', 'O', 1), ('apparently', 'O', 1), ('to', 'O', 1), ('express', 'O', 1), ('his', 'O', 1), ('opposition', 'O', 1), ('to', 'O', 1), ('making', 'O', 1), ('Modi', 'PERSON', 1), ('the', 'O', 1), ('campaign', 'O', 1), ('committee', 'O', 1), ('chief', 'O', 1), (',', 'O', 1), ('which', 'O', 1), ('will', 'O', 1), ('in', 'O', 1), ('effect', 'O', 1), ('present', 'O', 1), ('him', 'O', 1), ('as', 'O', 1), ('the', 'O', 1), ('face', 'O', 1), ('of', 'O', 1), ('the', 'O', 1), ('party', 'O', 1), ('for', 'O', 1), ('the', 'O', 1), ('next', 'O', 1), ('general', 'O', 1), ('elections', 'O', 1), ('.', 'O', 1)]
+2013-06-10 01:41:27,226 INFO ['Advani/PERSON', 'cited/O', 'ill/O', 'health/O', 'as/O', 'the/O', 'reason/O', 'for/O', 'his/O', 'staying/O', 'away/O', 'from/O', 'the/O', 'two-day/O', 'conclave/O', 'beginning/O', 'today/O', ',/O', 'party/O', 'sources/O', 'said/O', './O']
+2013-06-10 01:41:27,226 INFO {1: ['Advani', 'Modi'], 2: ['Advani']}
+2013-06-10 01:41:27,226 INFO {}
+2013-06-10 01:41:27,226 INFO {1: ['BJP']}
+2013-06-10 01:41:27,226 INFO [('Advani', 'PERSON', 2), ('cited', 'O', 2), ('ill', 'O', 2), ('health', 'O', 2), ('as', 'O', 2), ('the', 'O', 2), ('reason', 'O', 2), ('for', 'O', 2), ('his', 'O', 2), ('staying', 'O', 2), ('away', 'O', 2), ('from', 'O', 2), ('the', 'O', 2), ('two-day', 'O', 2), ('conclave', 'O', 2), ('beginning', 'O', 2), ('today', 'O', 2), (',', 'O', 2), ('party', 'O', 2), ('sources', 'O', 2), ('said', 'O', 2), ('.', 'O', 2)]
+2013-06-10 01:41:27,226 INFO ['However/O', ',/O', 'the/O', 'sources/O', 'said/O', 'the/O', 'party/O', 'is/O', 'keen/O', 'to/O', 'make/O', 'the/O', 'announcement/O', 'about/O', 'Modi/PERSON', 'at/O', 'the/O', 'national/O', 'executive/O', 'and/O', 'the/O', 'RSS/O', 'has/O', 'given/O', 'its/O', 'go-ahead/O', 'to/O', 'it/O', './O']
+2013-06-10 01:41:27,226 INFO {1: ['Advani', 'Modi'], 2: ['Advani'], 3: ['Modi']}
+2013-06-10 01:41:27,226 INFO {}
+2013-06-10 01:41:27,227 INFO {1: ['BJP']}
+2013-06-10 01:41:27,227 INFO [('However', 'O', 3), (',', 'O', 3), ('the', 'O', 3), ('sources', 'O', 3), ('said', 'O', 3), ('the', 'O', 3), ('party', 'O', 3), ('is', 'O', 3), ('keen', 'O', 3), ('to', 'O', 3), ('make', 'O', 3), ('the', 'O', 3), ('announcement', 'O', 3), ('about', 'O', 3), ('Modi', 'PERSON', 3), ('at', 'O', 3), ('the', 'O', 3), ('national', 'O', 3), ('executive', 'O', 3), ('and', 'O', 3), ('the', 'O', 3), ('RSS', 'O', 3), ('has', 'O', 3), ('given', 'O', 3), ('its', 'O', 3), ('go-ahead', 'O', 3), ('to', 'O', 3), ('it', 'O', 3), ('.', 'O', 3)]
+2013-06-10 01:41:27,227 INFO ['Meanwhile/O', ',/O', 'BJP/ORGANIZATION', 'leaders/O', 'tried/O', 'to/O', 'playdown/O', 'Advani/PERSON', "'s/O", 'absence/O', 'at/O', 'the/O', 'national/O', 'executive/O', 'meet/O', './O']
+2013-06-10 01:41:27,227 INFO {1: ['Advani', 'Modi'], 2: ['Advani'], 3: ['Modi'], 4: ['Advani']}
+2013-06-10 01:41:27,227 INFO {}
+2013-06-10 01:41:27,227 INFO {1: ['BJP'], 4: ['BJP']}
+2013-06-10 01:41:27,227 INFO [('Meanwhile', 'O', 4), (',', 'O', 4), ('BJP', 'ORGANIZATION', 4), ('leaders', 'O', 4), ('tried', 'O', 4), ('to', 'O', 4), ('playdown', 'O', 4), ('Advani', 'PERSON', 4), ("'s", 'O', 4), ('absence', 'O', 4), ('at', 'O', 4), ('the', 'O', 4), ('national', 'O', 4), ('executive', 'O', 4), ('meet', 'O', 4), ('.', 'O', 4)]
+2013-06-10 01:41:27,227 INFO ['Party/O', 'general/O', 'secretary/O', 'Rajiv/PERSON', 'Pratap/PERSON', 'Rudy/PERSON', 'said/O', 'he/O', 'had/O', 'enquired/O', 'about/O', 'Advani/PERSON', "'s/O", 'health/O', 'and/O', 'he/O', 'is/O', 'actually/O', 'unwell/O', './O']
+2013-06-10 01:41:27,227 INFO {1: ['Advani', 'Modi'], 2: ['Advani'], 3: ['Modi'], 4: ['Advani'], 5: ['Rajiv', 'Pratap', 'Rudy', 'Advani']}
+2013-06-10 01:41:27,227 INFO {}
+2013-06-10 01:41:27,227 INFO {1: ['BJP'], 4: ['BJP']}
+2013-06-10 01:41:27,227 INFO [('Party', 'O', 5), ('general', 'O', 5), ('secretary', 'O', 5), ('Rajiv', 'PERSON', 5), ('Pratap', 'PERSON', 5), ('Rudy', 'PERSON', 5), ('said', 'O', 5), ('he', 'O', 5), ('had', 'O', 5), ('enquired', 'O', 5), ('about', 'O', 5), ('Advani', 'PERSON', 5), ("'s", 'O', 5), ('health', 'O', 5), ('and', 'O', 5), ('he', 'O', 5), ('is', 'O', 5), ('actually', 'O', 5), ('unwell', 'O', 5), ('.', 'O', 5)]
+2013-06-10 01:41:27,227 INFO ['Insisting/O', 'that/O', 'not/O', 'much/O', 'should/O', 'be/O', 'read/O', 'into/O', 'this/O', 'issue/O', ',/O', 'he/O', 'said/O', 'Advani/PERSON', 'would/O', 'have/O', 'loved/O', 'to/O', 'be/O', 'present/O', 'at/O', 'the/O', 'conclave/O', './O']
+2013-06-10 01:41:27,227 INFO {1: ['Advani', 'Modi'], 2: ['Advani'], 3: ['Modi'], 4: ['Advani'], 5: ['Rajiv', 'Pratap', 'Rudy', 'Advani'], 6: ['Advani']}
+2013-06-10 01:41:27,227 INFO {}
+2013-06-10 01:41:27,227 INFO {1: ['BJP'], 4: ['BJP']}
+2013-06-10 01:41:27,227 INFO [('Insisting', 'O', 6), ('that', 'O', 6), ('not', 'O', 6), ('much', 'O', 6), ('should', 'O', 6), ('be', 'O', 6), ('read', 'O', 6), ('into', 'O', 6), ('this', 'O', 6), ('issue', 'O', 6), (',', 'O', 6), ('he', 'O', 6), ('said', 'O', 6), ('Advani', 'PERSON', 6), ('would', 'O', 6), ('have', 'O', 6), ('loved', 'O', 6), ('to', 'O', 6), ('be', 'O', 6), ('present', 'O', 6), ('at', 'O', 6), ('the', 'O', 6), ('conclave', 'O', 6), ('.', 'O', 6)]
+2013-06-10 01:41:27,228 INFO ['BJP/ORGANIZATION', 'spokesperson/O', 'Shahnawaz/PERSON', 'Hussain/PERSON', 'said/O', 'Advani/PERSON', 'is/O', 'indisposed/O', 'and/O', 'hence/O', ',/O', 'he/O', 'has/O', 'not/O', 'been/O', 'able/O', 'to/O', 'attend/O', 'the/O', 'meeting/O', './O']
+2013-06-10 01:41:27,228 INFO {1: ['Advani', 'Modi'], 2: ['Advani'], 3: ['Modi'], 4: ['Advani'], 5: ['Rajiv', 'Pratap', 'Rudy', 'Advani'], 6: ['Advani'], 7: ['Shahnawaz', 'Hussain', 'Advani']}
+2013-06-10 01:41:27,228 INFO {}
+2013-06-10 01:41:27,228 INFO {1: ['BJP'], 4: ['BJP'], 7: ['BJP']}
+2013-06-10 01:41:27,228 INFO [('BJP', 'ORGANIZATION', 7), ('spokesperson', 'O', 7), ('Shahnawaz', 'PERSON', 7), ('Hussain', 'PERSON', 7), ('said', 'O', 7), ('Advani', 'PERSON', 7), ('is', 'O', 7), ('indisposed', 'O', 7), ('and', 'O', 7), ('hence', 'O', 7), (',', 'O', 7), ('he', 'O', 7), ('has', 'O', 7), ('not', 'O', 7), ('been', 'O', 7), ('able', 'O', 7), ('to', 'O', 7), ('attend', 'O', 7), ('the', 'O', 7), ('meeting', 'O', 7), ('.', 'O', 7)]
+2013-06-10 01:41:27,229 INFO who question :who skipped the BJP national executive
+2013-06-10 01:41:27,229 INFO skipped the BJP national executive
+2013-06-10 01:41:27,229 INFO 1

@@ -1,0 +1,58 @@
+Usage: annotate_timex [options] FILENAME
+
+Options:
+  --version             show program's version number and exit
+  -h, --help            show this help message and exit
+  -c DCT, --dct=DCT     The document creation time used as the basis for
+                        normalisation. If not set, it will attempt to be
+                        extracted from the document.
+
+  Format Options:
+    Options for dealing with the type of input and output files
+
+    -t DOC_TYPE, --doctype=DOC_TYPE
+                        The format of the document and resulting tags.
+                        Supported values: timex2 - XML document resulting in
+                        TIMEX2 tags; timex3 - XML document resulting in TIMEX3
+                        tags; tern - a document from the TERN corpus; timeml -
+                        a document annotated with TimeML
+    -s, --strip-timexes
+                        If set, any timexes in the document are stripped, and
+                        then tagging starts afresh. If you don't enable this,
+                        feed in a document which already has TIMEXes in it and
+                        are doing recognition, you may end up with duplicate
+                        TIMEX tags.
+    -b BODY_TAG, --body-tag=BODY_TAG
+                        If set, this tag only the contents of this tag is
+                        tagged.
+    --s-tag=S_tag       If set, this tag name is used to denote sentence
+                        boundaries. If unset, NLTK is used to tokenise.
+    --lex-tag=LEX_tag   If set, this tag name is used to denote token
+                        boundaries. If unset, NLTK is used to tokenise.
+    --pos-attr=POS_attr
+                        If set, then this attribute on the tag set by --lex-
+                        tag is used to denote the POS tag of that token. If
+                        unset, NLTK is used for POS tagging.
+
+  Recognition Rules:
+    -r RECOGNITION_ENGINE, --recognition-engine=RECOGNITION_ENGINE
+                        Selects the engine to use for TIMEX recognition.
+                        Defaults to the currently recommended TERNIP engine.
+                        Other options are 'rule' for the rule engine and
+                        'none' to disable recognition (e.g., if the document
+                        already has TIMEXs annotated, but just needs
+                        normalising)
+    --recognition-rules=RECOGNITION_RULES
+                        Path to recognition rules. Defaults to
+                        ./rules/recognition/
+
+  Normalisation Rules:
+    -n NORMALISATION_ENGINE, --normalisation-engine=NORMALISATION_ENGINE
+                        Selects the engine to use for TIMEX recognition.
+                        Defaults to the currently recommended TERNIP engine.
+                        Other options are 'rule' for the rule engine and
+                        'none' to disable recognition (e.g., to just do
+                        recognition)
+    --normalisation-rules=NORMALISATION_RULES
+                        Path to normalisation rules. Defaults to
+                        ./rules/normalisation/
